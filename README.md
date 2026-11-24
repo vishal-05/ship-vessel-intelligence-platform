@@ -5,7 +5,6 @@ A data pipeline that processes NOAA AIS vessel tracking data on Azure Databricks
 
 ![Dashboard](docs/dashboard.png)
 
-Live dashboard (requires Databricks workspace access): `PASTE_DASHBOARD_LINK_HERE`
 
 ## Architecture
 
