@@ -1,4 +1,4 @@
-# ship-vessel-intelligence-platform
+# Vessel Intelligence Pipeline: AIS Data on Azure Databricks
 
 
 A data pipeline that processes NOAA AIS vessel tracking data on Azure Databricks, using the medallion architecture (raw, Bronze, Silver, Gold) with Delta Lake.
